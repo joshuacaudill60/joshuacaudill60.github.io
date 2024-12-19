@@ -1,6 +1,10 @@
 # About Me
 
-Computer engineer interested in mathematics, electrical engineering, computer science, and hacking.
+I am a computer engineer with a passion for solving complex problems and building high-quality software. I hold a Bachelor of Science in Computer Engineering from the University of Kentucky, where I graduated in May 2023, and am currently pursuing a Master of Science in Computer Science at the University of Cincinnati, with an expected graduation in 2025 or 2026.
+
+With two years of experience in the cyber domain, I have developed a strong foundation in reverse engineering, vulnerability research, and software development. I take pride in my ability to write clean, maintainable code and detailed documentation, always ensuring that the solutions I create are not only effective but also easy to understand and build upon. As a lifelong learner, I am committed to staying up to date with the latest trends in technology and cybersecurity, and I approach challenges with a low-ego, collaborative mindset.
+
+Currently, I work at Caesar Creek Software, where I apply my skills in software development and cybersecurity to deliver impactful solutions. Before this, I gained valuable experience at Northrop Grumman, where I contributed to projects in the defense and cybersecurity sectors for a year. I am driven by a strong belief in the mission behind my work.
 
 ## Education
 
